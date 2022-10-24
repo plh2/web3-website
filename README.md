@@ -3,5 +3,8 @@
 ## pre-require
 
 - MetaMask
-- Sepolia test network
+- Use Sepolia test network
 
+## how to run?
+
+1. connect this website

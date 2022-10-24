@@ -39,7 +39,7 @@ function App() {
     setMessage('A winner has been picked!')
   }
   return (
-    <div>
+    <div className="app">
       <h2>Lottery Contract</h2>
       <p>This contract is managed by {manager}</p>
       <p>There are currently {players.length} people entered, competing to
